@@ -6,4 +6,4 @@
 
 ### Sobre o projeto
 
-Projeto desenvolvido para estudos de ReactJS + Tailwindcss + Typescript + Vite.
+Projeto desenvolvido para estudos de ReactJS + Tailwindcss + Typescript + Vite com URL STATE.
